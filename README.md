@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 헤더 섹션 -->
-  <div style="background: linear-gradient(180deg, #e0f7fa, #ffffff); padding: 20px 0; border-radius: 10px;">
+  <div style="background: linear-gradient(180deg, #e0f7fa, #ffffff); padding: 20px; border-radius: 12px;">
     <h1>
       <span style="background: linear-gradient(90deg, #ff7eb3, #ff758c, #ffd452); -webkit-background-clip: text; color: transparent;">
         👩‍💻 About Me
@@ -9,20 +9,20 @@
   </div>
 
   <!-- 구분선 -->
-  <div style="margin: 30px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <div style="margin: 30px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
+  <!-- 소개 섹션 -->
   <h3 style="background: linear-gradient(90deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">
     💻 FrontEnd DEV
-  </h3><br>
-  <h3>📚 Edu</h3>
+  </h3>
   <p>
     🎓 <strong>Ajou Univ.</strong> Department of Software (2022-)
   </p>
 
   <!-- 구분선 -->
-  <div style="margin: 20px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <div style="margin: 20px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
-  <!-- 연락처 섹션 --><br>
+  <!-- 연락처 섹션 -->
   <h3>📬 Contact</h3>
   <p>
     📧 <strong>Email</strong>: <a href="mailto:whdpwls@ajou.ac.kr" style="color: #ff758c; text-decoration: none;">whdpwls@ajou.ac.kr</a><br>
@@ -31,9 +31,9 @@
   </p>
 
   <!-- 구분선 -->
-  <div style="margin: 20px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <div style="margin: 20px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
-  <!-- 기술 스택 섹션 --><br>
+  <!-- 기술 스택 섹션 -->
   <h3>⚡ Skills</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -45,9 +45,9 @@
   </p>
 
   <!-- 구분선 -->
-  <div style="margin: 20px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <div style="margin: 20px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
-  <!-- 관심사 섹션 --><br>
+  <!-- 관심사 섹션 -->
   <h3>🌱 Interests</h3>
   <p>
     Restful Design<br>
@@ -56,26 +56,34 @@
   </p>
 
   <!-- 구분선 -->
-  <div style="margin: 20px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <div style="margin: 20px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
-  <!-- GitHub Stats 섹션 --><br>
+  <!-- GitHub Stats 섹션 -->
   <h3>📊 GitHub Stats</h3>
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=yejinj&show_icons=true&theme=graywhite" 
-  alt="GitHub Stats" 
-  style="border-radius: 10px; margin-bottom: 20px;"
-  >
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinj&layout=compact&theme=graywhite" 
-    alt="Top Languages" 
-    style="border-radius: 10px;"
-  >
+  <p>
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=yejinj&show_icons=true&theme=graywhite" 
+      alt="GitHub Stats" 
+      style="border-radius: 10px; margin-bottom: 20px;"
+    >
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinj&layout=compact&theme=graywhite" 
+      alt="Top Languages" 
+      style="border-radius: 10px;"
+    >
+    <img 
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sitting077" 
+      alt="Solved.ac Profile" 
+      style="margin-top: 10px;"
+    >
+  </p>
 
-  <div style="margin: 30px 0; height: 1px; background: linear-gradient(90deg, #ff7eb3, #ff758c);"></div>
+  <!-- 구분선 -->
+  <div style="margin: 30px 0; height: 2px; background: linear-gradient(90deg, #ff758c, #ff7eb3);"></div>
 
-  <hr>
+  <!-- 목표 섹션 -->
   <h3>📝 Personal Goals</h3>
-  <p style="font-size: 1.2em; color: #444; line-height: 1.5;">
+  <p style="font-size: 1.2em; color: #555; line-height: 1.5;">
     🚀 Always open to learning!
   </p>
 </div>
