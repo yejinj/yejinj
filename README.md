@@ -6,7 +6,7 @@
   
   <img src="https://via.placeholder.com/800x3/ff758c/ff758c" width="80%" alt="divider">
 
-  <h2 style="color: #6a11cb;">💻 FrontEnd Developer</h2>
+  <h2 style="color: #6a11cb;">💻 FrontEnd Developer / Web Publisher</h2>
   <p>🎓 <strong>Ajou Univ.</strong> Department of Software (2022-)</p>
 
   <img src="https://via.placeholder.com/800x3/6a11cb/6a11cb" width="80%" alt="divider">
