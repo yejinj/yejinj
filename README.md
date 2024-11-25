@@ -21,6 +21,11 @@
   <img src="https://via.placeholder.com/800x3/2575fc/2575fc" width="80%" alt="divider">
 
   <h2 style="color: #ff7eb3;">⚡ Skills</h2>
+  <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinj&layout=compact&theme=graywhite" 
+      alt="Top Languages" 
+      style="border-radius: 15px; margin: 10px 0;"
+  >
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -46,11 +51,6 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=yejinj&show_icons=true&theme=graywhite" 
       alt="GitHub Stats" 
-      style="border-radius: 15px; margin: 10px 0;"
-    >
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejinj&layout=compact&theme=graywhite" 
-      alt="Top Languages" 
       style="border-radius: 15px; margin: 10px 0;"
     >
   </p>
