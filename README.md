@@ -27,6 +27,11 @@ Automates Exporter configurations and integrates with Prometheus
   `Feb 2025 ~ Sep 2025`  
   → DB guide revision, API test automation, query analyzer development
 
+
+- **2025 Open Infra Day Representation**
+  Cloud DB Migration Between Classic <-> VPC Environment
+
+
 - **Vice President, Aolda** — Ajou University Cloud Ops Club  
   `Jan 2025 ~ Present`
 
