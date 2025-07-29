@@ -7,20 +7,20 @@ Always open to collaboration and exciting new projects 😊
 - **NAVER Cloud Platform Cloud DB Dev Intern**     
   `Feb 2025 ~ Aug 2025`  
   → Contributed to DB guide revisions, API test automation, and internal query analysis tools  
-  → Key Projects:
-    - **DB Test Automation Pipeline**  
+  → Key Projects
+    1. **DB Test Automation Pipeline**  
       A fully automated pipeline that validates DB functionality and performance after every code change.  
       Designed a CI/CD workflow that provisions test environments, executes validation in a production-like replica setup, and delivers summarized results to collaborators.  
       Developed a test strategy framework and automated execution flow triggered by version control events.  
       Enhanced development efficiency by reducing manual testing steps and enabling consistent test feedback.
 
-    - **Node Isolation Simulator for Cloud Environments**  
+    2. **Node Isolation Simulator for Cloud Environments**  
       A failure simulation system to validate how distributed systems respond under adverse conditions.  
       Engineered scenario-based orchestration to simulate node unavailability, resource saturation, and network-level isolation.  
       Built a real-time control and feedback system to experiment safely without impacting production clusters.  
       Enabled developers to test resilience strategies and observe workload behavior under fault conditions.
 
-    - **PostgreSQL Query Analyzer**  
+    3. **PostgreSQL Query Analyzer**  
       A diagnostic tool that interprets query execution plans and provides optimization insights.  
       Parsed execution plans to trace scan paths, detect performance bottlenecks, and correlate them with indexing strategy.  
       Designed an insight engine to automatically generate tuning suggestions based on recurring cost patterns.  
