@@ -6,8 +6,8 @@ Always open to collaboration and exciting new projects 😊
 ## Experience
 - NAVER Cloud Platform **Cloud DB Dev Intern**     
   `Feb 2025 ~ Aug 2025`  
-  → Contributed to DB guide revisions, API test automation, Technical Writing, and internal query analysis tools  
-  → Key Projects
+  → Contributed to DB guide revisions, API testing, Technical Writing.
+  - Key Projects
     1. **DB Test Automation Pipeline**  
       A fully automated pipeline that validates DB functionality and performance after every code change.  
       Designed a CI/CD workflow that provisions test environments, executes validation in a production-like replica setup, and delivers summarized results to collaborators.  
