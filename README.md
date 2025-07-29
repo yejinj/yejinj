@@ -85,6 +85,6 @@ Always open to collaboration and exciting new projects 😊
 
 
 ## Contact
-- [Contact Mail](sitting077@gmail.com)  
-- [Dev Blog](https://blog.naver.com/yeveloper)
-- [Linkedin](https://www.linkedin.com/in/dpwlslinked/)
+1. Email, [Contact Mail](sitting077@gmail.com)
+2. Blog, [Dev Blog](https://blog.naver.com/yeveloper)
+3. Linkedin, [Linkedin](https://www.linkedin.com/in/dpwlslinked/)
