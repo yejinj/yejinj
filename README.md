@@ -1,4 +1,4 @@
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/74331dd4-c851-46f3-afe5-a0f046f1aaa8" />
+<img width="65%" alt="image" src="https://github.com/user-attachments/assets/74331dd4-c851-46f3-afe5-a0f046f1aaa8" />
 
 I'm passionate about **Databases**, **Backend Development**, and **Cloud Modernization**.  
 Always open to collaboration and exciting new projects 😊
