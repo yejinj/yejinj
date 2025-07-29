@@ -4,9 +4,9 @@ I'm passionate about **Databases**, **Backend Development**, and **Cloud Moderni
 Always open to collaboration and exciting new projects 😊
 
 ## Experience
-- **NAVER Cloud Platform Cloud DB Dev Intern**     
+- NAVER Cloud Platform **Cloud DB Dev Intern**     
   `Feb 2025 ~ Aug 2025`  
-  → Contributed to DB guide revisions, API test automation, and internal query analysis tools  
+  → Contributed to DB guide revisions, API test automation, Technical Writing, and internal query analysis tools  
   → Key Projects
     1. **DB Test Automation Pipeline**  
       A fully automated pipeline that validates DB functionality and performance after every code change.  
