@@ -6,8 +6,9 @@ Always open to collaboration and exciting new projects 😊
 ## Experience
 - NAVER Cloud Platform **Cloud DB Dev Intern**     
   `Feb 2025 ~ Aug 2025`  
-  → Contributed to DB guide revisions, API testing, Technical Writing.
-  - Key Projects
+  * Contributed to DB guide revisions, API testing, Technical Writing.
+  * I completed three projects utilizing the NCP database and compute server products.
+  - Projects
     1. **DB Test Automation Pipeline**  
       A fully automated pipeline that validates DB functionality and performance after every code change.  
       Designed a CI/CD workflow that provisions test environments, executes validation in a production-like replica setup, and delivers summarized results to collaborators.  
@@ -28,16 +29,20 @@ Always open to collaboration and exciting new projects 😊
 
 - **2025 Open Infra Day Representation**    
   `26th, Aug 2025`  
-  Cloud DB Migration Between Classic <-> VPC Environment
+  [Cloud DB Migration Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
 
 - **Vice President, AoldaCloud** — Ajou University Cloud Ops Club   
   `Jan 2025 ~ Ongoing`
 
 - **Python Study Instructor**  
-  `Mar 2021 ~ Mar 2023`  
+  `Sep 2022 ~ Dec 2023`  
   → Led study sessions for freshmen in the Department of Software  
   → Provided guidance on basic Python programming and study materials
 
+- **Wikibooks C# Publication Supporter**
+  `Mar 2023 ~ Jun 2023`
+  → Participated in promotional and review activities for a C# book published by Wikibooks
+  → Wrote blog posts and provided feedback based on hands-on learning
 
 ## Skills
 **Programming Languages**
