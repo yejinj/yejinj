@@ -27,9 +27,10 @@ Always open to collaboration and exciting new projects 😊
       Designed an insight engine to automatically generate tuning suggestions based on recurring cost patterns.  
       Helped identify inefficiencies in complex queries and guided developers toward better performance.
 
-- **2025 Open Infra Day Representation**    
-  `26th, Aug 2025`  
-  [Cloud DB Migration Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
+- **2025 Open Infra Day Representation Session**    
+  `26th, Aug 2025`    
+  `Scheduled to proceed`    
+  Present about [Cloud DB Migration: Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
 
 - **Vice President, AoldaCloud** — Ajou University Cloud Ops Club   
   `Jan 2025 ~ Ongoing`
