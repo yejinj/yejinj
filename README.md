@@ -19,13 +19,13 @@ Always open to collaboration and exciting new projects 😊
 
 - **Python Study Instructor**  
   `Sep 2022 ~ Dec 2023`  
-  → Led study sessions for freshman students in software department  
-  → Provided guidance on basic Python programming and study materials
+  * Led study sessions for freshman students in software department  
+  * Provided guidance on basic Python programming and study materials
 
 - **Wikibooks C# Publication Supporter**  
   `Mar 2023 ~ Jun 2023`  
-  → Participated in promotion and technical review of C# book  
-  → Created blog content and hands-on feedback for readers  
+  * Participated in promotion and technical review of C# book  
+  * Created blog content and hands-on feedback for readers  
 
 ### Skills
 **P.L.**    
