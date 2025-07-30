@@ -59,7 +59,7 @@ Always open to collaboration and exciting new projects 😊
 </p>
 
 
-#### You can find me in..
+### You can find me in..
 - Email: [sitting077@gmail.com](mailto:sitting077@gmail.com)  
-- Blog: [Dev Blog](https://blog.naver.com/yeveloper)  
-- LinkedIn: [dpwlslinked](https://www.linkedin.com/in/dpwlslinked/)
+- [Dev Blog](https://blog.naver.com/yeveloper)  
+- [Linkedin](https://www.linkedin.com/in/dpwlslinked/)
