@@ -3,94 +3,63 @@
 I'm passionate about **Databases**, **Backend Development**, and **Cloud Modernization**.  
 Always open to collaboration and exciting new projects 😊
 
-## Experience
+### Experience
 - NAVER Cloud Platform **Cloud DB Dev Intern**     
   `Feb 2025 ~ Aug 2025`  
   * Contributed to DB guide revisions, API testing, Technical Writing.
-  * I completed three projects utilizing the NCP database and compute server products.
-  - Projects
-    1. **DB Test Automation Pipeline**  
-      A fully automated pipeline that validates DB functionality and performance after every code change.  
-      Designed a CI/CD workflow that provisions test environments, executes validation in a production-like replica setup, and delivers summarized results to collaborators.  
-      Developed a test strategy framework and automated execution flow triggered by version control events.  
-      Enhanced development efficiency by reducing manual testing steps and enabling consistent test feedback.
-
-    2. **Node Isolation Simulator for Cloud Environments**  
-      A failure simulation system to validate how distributed systems respond under adverse conditions.  
-      Engineered scenario-based orchestration to simulate node unavailability, resource saturation, and network-level isolation.  
-      Built a real-time control and feedback system to experiment safely without impacting production clusters.  
-      Enabled developers to test resilience strategies and observe workload behavior under fault conditions.
-
-    3. **PostgreSQL Query Analyzer**  
-      A diagnostic tool that interprets query execution plans and provides optimization insights.  
-      Parsed execution plans to trace scan paths, detect performance bottlenecks, and correlate them with indexing strategy.  
-      Designed an insight engine to automatically generate tuning suggestions based on recurring cost patterns.  
-      Helped identify inefficiencies in complex queries and guided developers toward better performance.
-
+  * Completed Projects for database testing, failure simulation, and performance analysis using NCP’s database and cloud infrastructure.
+  
 - **2025 Open Infra Day Representation Session**    
   `26th, Aug 2025`    
   `Scheduled to proceed`    
   Present about [Cloud DB Migration: Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
 
-- **Vice President, AoldaCloud** — Ajou University Cloud Ops Club   
+- **Vice President, AoldaCloud** — Ajou Univ. Cloud Ops Club  
   `Jan 2025 ~ Ongoing`
 
 - **Python Study Instructor**  
   `Sep 2022 ~ Dec 2023`  
-  → Led study sessions for freshmen in the Department of Software  
+  → Led study sessions for freshman students in software department  
   → Provided guidance on basic Python programming and study materials
 
-- **Wikibooks C# Publication Supporter**      
-  `Mar 2023 ~ Jun 2023`     
-  → Participated in promotional and review activities for a C# book published by Wikibooks     
-  → Wrote blog posts and provided feedback based on hands-on learning     
+- **Wikibooks C# Publication Supporter**  
+  `Mar 2023 ~ Jun 2023`  
+  → Participated in promotion and technical review of C# book  
+  → Created blog content and hands-on feedback for readers  
 
-## Skills
-**Programming Languages**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/>
-  <sub>Java</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/>
-  <sub>Python</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/>
-  <sub>JavaScript</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/>
-  <sub>TypeScript</sub>
+### Skills
+**P.L.**    
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
-**Backend**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16"/>
-  <sub>Spring Boot</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>
-  <sub>Node.js</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="16"/>
-  <sub>Express</sub>
+**B.E.**    
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
-**Databases**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/>
-  <sub>PostgreSQL</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16"/>
-  <sub>MySQL</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="16"/>
-  <sub>MongoDB</sub>
+**DB**    
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-**Infra / DevOps**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="16"/>
-  <sub>Jenkins</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16"/>
-  <sub>GitHub</sub>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16"/>
-  <sub>Docker</sub>
+**Infra** 
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
-
-## Contact
-1. Email, [Contact Mail](sitting077@gmail.com)
-2. Blog, [Dev Blog](https://blog.naver.com/yeveloper)
-3. Linkedin, [Linkedin](https://www.linkedin.com/in/dpwlslinked/)
+#### You can find me in..
+- Email: [sitting077@gmail.com](mailto:sitting077@gmail.com)  
+- Blog: [Dev Blog](https://blog.naver.com/yeveloper)  
+- LinkedIn: [dpwlslinked](https://www.linkedin.com/in/dpwlslinked/)
