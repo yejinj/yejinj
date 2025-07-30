@@ -40,10 +40,10 @@ Always open to collaboration and exciting new projects 😊
   → Led study sessions for freshmen in the Department of Software  
   → Provided guidance on basic Python programming and study materials
 
-- **Wikibooks C# Publication Supporter**
-  `Mar 2023 ~ Jun 2023`
-  → Participated in promotional and review activities for a C# book published by Wikibooks
-  → Wrote blog posts and provided feedback based on hands-on learning
+- **Wikibooks C# Publication Supporter**      
+  `Mar 2023 ~ Jun 2023`     
+  → Participated in promotional and review activities for a C# book published by Wikibooks     
+  → Wrote blog posts and provided feedback based on hands-on learning     
 
 ## Skills
 **Programming Languages**
