@@ -23,7 +23,7 @@ Always open to collaboration and exciting new projects 😊
   * Provided guidance on basic Python programming and study materials
 
 - **Wikibooks C# Publication Supporter**  
-  `Mar 2023 ~ Jun 2023`  
+  `Sep 2022 ~ Dec 2022`  
   * Participated in promotion and technical review of C# book  
   * Created blog content and hands-on feedback for readers  
 
