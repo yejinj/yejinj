@@ -12,21 +12,16 @@ Always open to collaboration and exciting new projects 😊
   
 - **2025 Open Infra Day Representation Session**    
   `26th, Aug 2025`    
-  `Scheduled to proceed`    
-  Present about [Cloud DB Migration: Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
+  [Cloud DB Migration: Between Classic to VPC Environment](https://2025.openinfradays.kr/session/12)
 
 - **Vice President, AoldaCloud** — Ajou Univ. Cloud Ops Club  
-  `Jan 2025 ~ Ongoing`
+  `Jan 2025 ~ Jan 2026`    
 
 - **Python Study Instructor**  
   `Sep 2022 ~ Dec 2023`  
   * Led study sessions for freshman students in software department  
   * Provided guidance on basic Python programming and study materials
 
-- **Wikibooks C# Publication Supporter**  
-  `Sep 2022 ~ Dec 2022`  
-  * Participated in promotion and technical review of C# book  
-  * Created blog content and hands-on feedback for readers  
 
 ### Skills
 **P.L.**    
