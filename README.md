@@ -10,8 +10,6 @@
 🌱 I’m currently learning <b>metrics-driven analysis</b> and <b>data quality improvement</b> to make search & discovery experiences more reliable<br>
 ✨ I’m also exploring <b>Cloud Database Reliability, Observability, and Performance Engineering</b>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-
 <br><br>
 
 <h3 align="left">About me</h3>
@@ -22,6 +20,7 @@
 - I was a <b>Python Study Instructor</b> (Sep 2022 ~ Dec 2023)
 
 <br>
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 <h3 align="left">Skills</h3>
 
