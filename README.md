@@ -9,8 +9,7 @@
 
 🌱 I’m currently learning <b>metrics-driven analysis</b> and <b>data quality improvement</b> to make search & discovery experiences more reliable<br>
 ✨ I’m also exploring <b>Cloud Database Reliability, Observability, and Performance Engineering</b>
-
-<br><br>
+<br>
 
 <h3 align="left">About me</h3>
 
