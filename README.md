@@ -7,8 +7,8 @@
   <!-- <a href="https://twitter.com/YOUR_ID" target="blank"><img src="https://img.shields.io/twitter/follow/YOUR_ID?logo=twitter&style=for-the-badge" alt="twitter" /></a> -->
 </p>
 
-🌱 I’m currently learning <b>Cloud Database Reliability, Observability, and Performance Engineering</b><br>
-✨ I’m also exploring <b>metrics-driven analysis</b> and <b>data quality improvement</b> to make search & discovery experiences more reliable
+🌱 I’m currently learning <b>metrics-driven analysis</b> and <b>data quality improvement</b> to make search & discovery experiences more reliable<br>
+✨ I’m also exploring <b>Cloud Database Reliability, Observability, and Performance Engineering</b>
 
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
