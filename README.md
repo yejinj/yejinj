@@ -55,11 +55,6 @@
 </p>
 
 <br>
-
-<hr width="60%"/>
-
-<hr width="60%"/>
-
 <h3 align="left">Connect with me</h3>
 <p align="center">
   <a href="mailto:sitting077@gmail.com"><img src="https://img.shields.io/badge/Email-sitting077%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
