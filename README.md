@@ -58,16 +58,6 @@
 
 <hr width="60%"/>
 
-<h3>My GitHub Stats</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yejinj&show_icons=true&theme=dark&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yejinj&show_icons=true&theme=dark&locale=en" alt="stats" />
-</p>
-
 <br><br><br><br><br><br><br><br><br><br>
 
 <hr width="60%"/>
